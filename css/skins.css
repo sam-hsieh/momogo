@@ -1,0 +1,35 @@
+a {
+    color: #09afdf;
+  }
+  
+  a:hover {
+    color: #0c9ec7;
+  }
+  
+  a:focus,
+  a:active {
+    color: #0c9ec7;
+  }
+  
+  
+  .btn-default {
+    background-color: #EB6160;
+    border-color: #d22a3a;
+    
+  }
+  .btn-default:hover,
+  .btn-default:focus,
+  .btn-default:active {
+    background-color: #6a3324;
+    border-color: #d22a3a;
+  }
+  
+ 
+  .modal-content .modal-header {
+    background-color: #EB6160;
+  }
+  
+  .default-bg {
+    background-color: #EB6160;
+    color: #ffffff;
+}
